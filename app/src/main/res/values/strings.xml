@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Make a Wish</string>
+    <string name="name_invalid">Masukkan nama terlebih dahulu!</string>
+    <string name="wishes_invalid">Masukkan wishes terlebih dahulu!</string>
+</resources>
